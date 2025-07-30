@@ -1,0 +1,3 @@
+bacd2e23-6d05-4c4c-a64a-86872f0eed20,30-07-2025,Buying Lunch,61000,Food & Drink
+18af7d0c-f82d-418e-a711-4c3741e10d6f,29-07-2025,Buying lunch,63000,Food & Drink
+4ba34323-c485-4f92-8389-80be352989eb,26-07-2025,Buying mineral water,13500,Food & Drink
